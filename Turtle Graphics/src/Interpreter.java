@@ -6,7 +6,6 @@ public class Interpreter {
 	static Paper paper = new Paper(); //I assume we only need a single paper in any one execution
 	
 	public Interpreter() {
-		// TODO Auto-generated constructor stub
 		
 	}
 	
